@@ -8,7 +8,6 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, Auto
 import nltk
 import os
 import json
-import traceback
 
 try:
     nltk.data.find('tokenizers/punkt')
@@ -135,7 +134,7 @@ class EvidenceScorer:
                 max_length=256,
                 padding=True
             ).to(self.device)
-            with self.nli_model.no_grad():
+            with torch.no_grad():
                 logits = self.nli_model(**inputs).logits
             probabilities = logits.softmax(dim=-1)
             confidence, predicted_class_id = probabilities.max(dim=-1)
@@ -158,7 +157,7 @@ class EvidenceScorer:
             truncation=True,
             return_tensors="pt"
         ).to(self.device)
-        with self.cross_encoder_model.no_grad():
+        with torch.no_grad():
             scores = self.cross_encoder_model(**features).logits.squeeze(dim=-1)
         ranked_passages = sorted(zip(passages, scores.tolist()), key=lambda x: x[1], reverse=True)
         return ranked_passages
@@ -178,7 +177,7 @@ class EvidenceScorer:
                 padding=True,
                 max_length=512
             ).to(self.device)
-            with self.qa_model.no_grad():
+            with torch.no_grad():
                 outputs = self.qa_model(**inputs)
                 start_logits = outputs.start_logits
                 end_logits = outputs.end_logits
@@ -196,8 +195,7 @@ class EvidenceScorer:
             logging.error(f"Error during QA prediction for question '{question[:50]}...' and context '{context[:50]}...': {e}")
             return "", 0.0
 
-
-    def score_options(self, processed_question_data: dict, wikipedia_page_texts: list, top_k_initial_evidence: int = 20, top_k_reranked_evidence: int = 5, nli_weight: float = 1.0, qa_weight: float = 1.0, nli_confidence_threshold: float = 0.75, qa_confidence_threshold: float = 0.05) -> dict: # Adjusted qa_confidence_threshold
+    def score_options(self, processed_question_data: dict, wikipedia_page_texts: list, top_k_initial_evidence: int = 20, top_k_reranked_evidence: int = 5, nli_weight: float = 1.0, qa_weight: float = 1.0, nli_confidence_threshold: float = 0.75, qa_confidence_threshold: float = 0.05) -> dict:
         """
         Scores answer options based on relevance (semantic + cross-encoder re-ranking),
         NLI, and Extractive Question Answering (QA) confidence.
@@ -214,7 +212,6 @@ class EvidenceScorer:
             Number of top evidence segments to re-rank with Cross-Encoder and pass to NLI/QA, by default 5.
         nli_weight : float, optional
             Weight to give to the NLI score relative to cross-encoder score, by default 1.0.
-            A higher weight means NLI has a stronger influence.
         qa_weight : float, optional
             Weight to give to the QA confidence score, by default 1.0.
         nli_confidence_threshold : float, optional
@@ -326,7 +323,6 @@ class EvidenceScorer:
                             elif nli_label == "CONTRADICTION":
                                 nli_contributions.append(-nli_confidence)
                                 cross_encoder_base_scores.append(ce_score)
-                        # else: print(f"      Skipping NLI due to low confidence ({nli_confidence:.2f}).")
 
                     # QA Scoring
                     if self.qa_model:
@@ -351,7 +347,6 @@ class EvidenceScorer:
                             qa_confidences_for_option.append(qa_confidence)
                             if ce_score not in cross_encoder_base_scores: # Avoid duplicate CE scores if NLI also used this passage
                                 cross_encoder_base_scores.append(ce_score)
-                        # else: print(f"      Skipping QA due to low confidence ({qa_confidence:.2f}) or irrelevant answer.")
 
                 # 4. Combine Scores for Final Option Score
                 final_score_components = []
@@ -366,7 +361,6 @@ class EvidenceScorer:
                         final_score_components.append(max([s for _, s in top_reranked_passages]))
                     else:
                         final_score_components.append(0.0) # No relevant passages found
-
 
                 # Add aggregated NLI score
                 if nli_contributions and self.nli_model:
@@ -389,11 +383,10 @@ class EvidenceScorer:
                 if final_score_components:
                     max_option_score = sum(final_score_components)
                 else:
-                    max_option_score = 0.0 # Fallback if no relevant scores found after all steps
+                    max_option_score = 0.0 
 
             except Exception as e:
                 logging.error(f"  EvidenceScorer: Error during processing for option '{option_key}': {e}")
-                traceback.print_exc()
                 max_option_score = 0.0
 
             option_final_scores[option_key] = max_option_score
