@@ -1,0 +1,1983 @@
+[
+    {
+        "question_id": 0,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.242,
+            "B": 0.262,
+            "C": 0.367,
+            "D": 0.129
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 1,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.211,
+            "B": 0.187,
+            "C": 0.205,
+            "D": 0.397
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 2,
+        "original_question": "A 72-year-old woman is evaluated for progressive shortness of breath on exertion and lower extremity edema for the past 3 months. She has a history of hypertension and hyperlipidemia. Her medications include lisinopril, metoprolol, and atorvastatin. On examination, her blood pressure is 150/90 mm Hg, pulse is 80/min, and respiratory rate is 20/min. There is bilateral pitting edema up to the knees. Auscultation of the lungs reveals crackles at the bases. A chest radiograph shows cardiomegaly and pulmonary congestion. Which of the following is the most likely cause of this patient's symptoms?",
+        "options": {
+            "A": "Acute myocardial infarction",
+            "B": "Chronic obstructive pulmonary disease",
+            "C": "Congestive heart failure",
+            "D": "Pulmonary embolism"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.231,
+            "B": 0.401,
+            "C": 0.198,
+            "D": 0.170
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 3,
+        "original_question": "A 45-year-old man comes to the physician because of a 2-month history of fatigue, weight loss, and night sweats. He also notes a persistent cough and shortness of breath, especially when lying flat. He has a history of smoking and works as a coal miner. On examination, there is dullness to percussion and decreased breath sounds at the lung bases. A chest radiograph shows blunting of the costophrenic angles. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial pneumonia",
+            "B": "Tuberculosis",
+            "C": "Lung cancer",
+            "D": "Pleural effusion"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.201,
+            "B": 0.222,
+            "C": 0.377,
+            "D": 0.200
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 4,
+        "original_question": "A 30-year-old woman comes to the physician because of a 3-week history of joint pain and swelling in her hands and knees. She also reports morning stiffness that lasts for about an hour. There is no history of trauma. On examination, there is swelling and tenderness in the metacarpophalangeal and proximal interphalangeal joints of both hands, as well as the knees. Laboratory studies show a positive rheumatoid factor and anti-citrullinated protein antibody. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Osteoarthritis",
+            "B": "Rheumatoid arthritis",
+            "C": "Psoriatic arthritis",
+            "D": "Gout"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 5,
+        "original_question": "A 60-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.6,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 6,
+        "original_question": "A 50-year-old woman comes to the physician because of a 6-month history of fatigue, weight gain, and cold intolerance. She also notes constipation and dry skin. On examination, her blood pressure is 110/70 mm Hg, pulse is 60/min, and respiratory rate is 12/min. There is periorbital edema and a nonpitting edema of the extremities. Laboratory studies show an elevated TSH and low free T4. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Primary hyperthyroidism",
+            "B": "Secondary hyperthyroidism",
+            "C": "Primary hypothyroidism",
+            "D": "Secondary hypothyroidism"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 7,
+        "original_question": "A 25-year-old man comes to the physician because of a 2-day history of fever, sore throat, and difficulty swallowing. He also notes a rash on his trunk and extremities. On examination, there is erythematous pharynx with exudates, tender cervical lymphadenopathy, and a diffuse rash. A rapid antigen detection test for group A Streptococcus is negative. Which of the following is the most likely cause of this patient's symptoms?",
+        "options": {
+            "A": "Viral pharyngitis",
+            "B": "Bacterial pharyngitis",
+            "C": "Allergic rhinitis",
+            "D": "Mononucleosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.1,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 8,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 9,
+        "original_question": "A 70-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 10,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 11,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 12,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 13,
+        "original_question": "A 45-year-old woman comes to the physician because of a 2-month history of fatigue, weight gain, and cold intolerance. She also notes constipation and dry skin. On examination, her blood pressure is 110/70 mm Hg, pulse is 60/min, and respiratory rate is 12/min. There is periorbital edema and a nonpitting edema of the extremities. Laboratory studies show an elevated TSH and low free T4. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Primary hyperthyroidism",
+            "B": "Secondary hyperthyroidism",
+            "C": "Primary hypothyroidism",
+            "D": "Secondary hypothyroidism"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 14,
+        "original_question": "A 28-year-old woman comes to the physician because of a 1-week history of fever, malaise, and a painful rash on her legs. She also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 15,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 16,
+        "original_question": "A 50-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 17,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 18,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 19,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 20,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 21,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 22,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 23,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 24,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 25,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 26,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 27,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 28,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 29,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 30,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 31,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 32,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 33,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 34,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 35,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 36,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 37,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 38,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 39,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 40,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 41,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 42,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 43,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 44,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 45,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 46,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 47,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 48,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 49,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 50,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 51,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 52,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 53,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 54,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 55,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 56,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 57,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 58,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 59,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 60,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 61,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 62,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 63,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 64,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 65,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 66,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 67,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 68,
+        "original_question": "A 57-year-old female with a past medical history of alcoholism presents to the emergency room vomiting bright red blood. She is accompanied by her partner, who reports that she had been complaining of black and tarry stools for the past several days. Vital signs are temperature 37 degrees celsius, heart rate 141 beats per minute, blood pressure 90/60, respiratory rate 20, and oxygen saturation 99% on room air. On physical examination, she has splenomegaly and a positive fluid wave. The remainder of her examination is within normal limits. The patient is stabilized with intravenous fluids, and her blood pressure improves. Subsequent emergent upper endoscopy reveals bleeding from the submucosal veins in the lower 1/3 of the esophagus, but no gastric bleed. In the endoscopy suite she also receives IV octreotide. After intervention and resolution of her acute bleed, which of the following pharmacologic agents is indicated?",
+        "options": {"A": "Phentolamine", "B": "Prazosin", "C": "Nifedipine", "D": "Nadalol"},
+       
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "C",
+        "question_category": "TREATMENT",
+        "option_scores": {"A": 0.211, "B": 0.187, "C": 0.397, "D": 0.205},
+        "pages_found": 5
+    },
+    {
+        "question_id": 69,
+        "original_question": "A 65-year-old man with a history of hypertension, obesity, and alcoholic cirrhosis is seen in clinic for follow-up. He feels well and currently drinks 5 glasses of wine each night. Medications include atenolol and lisinopril. On physical exam, temperature is 98.1 deg F (36.7 deg C), blood pressure is 151/82 mmHg, pulse is 71/min, and respirations are 14/min. He has spider angiomata on his chest; no asterixis, jaundice, ascites, or peripheral edema is noted. Screening ultrasound reveals a new liver nodule, and follow up CT demonstrates a 2 cm right hepatic lobe lesion with enhancement in the arterial phase. No hypodense attenuation is seen on the venous or delayed phase. What is the next step in management?",
+        "options": {"A": "Proceed with liver biopsy", "B": "Refer for surgical resection", "C": "Refer for radiofrequency ablation", "D": "Observe and get follow-up imaging in 3 months"},
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "MANAGEMENT",
+        "option_scores": {"A": 0.312, "B": 0.241, "C": 0.221, "D": 0.226},
+        "pages_found": 5
+    },
+    {
+        "question_id": 70,
+        "original_question": "A 72-year-old woman with a history of hypertension and hyperlipidemia is evaluated for progressive shortness of breath on exertion and lower extremity edema for the past 2 months. She has been compliant with her medications, which include lisinopril, metoprolol, and atorvastatin. On examination, her blood pressure is 160/100 mm Hg, pulse is 78/min, and respiratory rate is 18/min. There is bilateral pitting edema up to the thighs. Auscultation of the lungs reveals crackles at the bases. A chest radiograph shows cardiomegaly and pulmonary congestion. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Increase the dose of lisinopril",
+            "B": "Add spironolactone",
+            "C": "Add hydralazine",
+            "D": "Refer for cardiac catheterization"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "A",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.211,
+            "B": 0.367,
+            "C": 0.129,
+            "D": 0.293
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 71,
+        "original_question": "A 60-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most appropriate initial management for this patient?",
+        "options": {
+            "A": "Administer diuretics",
+            "B": "Perform thoracentesis",
+            "C": "Start broad-spectrum antibiotics",
+            "D": "Obtain a CT scan of the chest"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 72,
+        "original_question": "A 45-year-old woman comes to the physician because of a 3-day history of fever, sore throat, and difficulty swallowing. She also notes a rash on her trunk and extremities. On examination, there is erythematous pharynx with exudates, tender cervical lymphadenopathy, and a diffuse rash. A rapid antigen detection test for group A Streptococcus is negative. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Prescribe antibiotics and reassess in 48 hours",
+            "B": "Perform a throat culture and start empiric antibiotics",
+            "C": "Instruct symptomatic treatment and follow-up as needed",
+            "D": "Refer to an otolaryngologist for possible abscess drainage"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 73,
+        "original_question": "A 30-year-old woman comes to the physician because of a 2-week history of fatigue, weight gain, and cold intolerance. She also notes constipation and dry skin. On examination, her blood pressure is 120/80 mm Hg, pulse is 58/min, and respiratory rate is 14/min. There is periorbital edema and a nonpitting edema of the extremities. Laboratory studies show an elevated TSH and low free T4. Which of the following is the most appropriate management for this patient?",
+        "options": {
+            "A": "Levothyroxine replacement",
+            "B": "Thyroidectomy",
+            "C": "Radioactive iodine therapy",
+            "D": "Observation and follow-up in 6 months"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.1,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 74,
+        "original_question": "A 50-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.6,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 75,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 76,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 77,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 78,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 79,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 80,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 81,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 82,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 83,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 84,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 85,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 86,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 87,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 88,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 89,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 90,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 91,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 92,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 93,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 94,
+        "original_question": "A 35-year-old man comes to the physician because of a 1-week history of fever, malaise, and a painful rash on his legs. He also reports joint pain and swelling. On examination, there are erythematous nodules on the shins and tender, swollen joints. A recent travel history reveals a trip to the Caribbean. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Bacterial skin infection",
+            "B": "Viral exanthem",
+            "C": "Fungal infection",
+            "D": "Parasitic infection"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 95,
+        "original_question": "A 60-year-old woman with a history of breast cancer treated with lumpectomy and radiation therapy 5 years ago presents with new-onset back pain. She denies any recent trauma. On examination, there is tenderness over the thoracic spine, and neurological examination shows no deficits. A chest radiograph shows no acute process. Which of the following is the most appropriate next step in management?",
+        "options": {
+            "A": "Observation and reassurance",
+            "B": "MRI of the thoracic spine",
+            "C": "CT scan of the abdomen and pelvis",
+            "D": "Bone scan"
+        },
+        "actual_answer_idx": "B",
+        "predicted_answer_idx": "B",
+        "question_category": "MANAGEMENT",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.7,
+            "C": 0.1,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 96,
+        "original_question": "A 75-year-old man with a history of smoking and chronic obstructive pulmonary disease presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the right side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.6,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 97,
+        "original_question": "A 65-year-old man with a history of smoking and chronic bronchitis presents to the emergency department with acute onset of shortness of breath and chest pain. He appears anxious and is using accessory muscles to breathe. On examination, there is decreased breath sounds and dullness to percussion on the left side of the chest. A chest radiograph shows a large pleural effusion. Which of the following is the most likely cause of this patient's condition?",
+        "options": {
+            "A": "Congestive heart failure",
+            "B": "Pneumonia",
+            "C": "Pulmonary embolism",
+            "D": "Lung cancer"
+        },
+        "actual_answer_idx": "D",
+        "predicted_answer_idx": "D",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.2,
+            "C": 0.1,
+            "D": 0.6
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 98,
+        "original_question": "A 40-year-old woman comes to the physician because of a 1-month history of abdominal pain, bloating, and changes in bowel habits. She also reports unintended weight loss. On examination, there is a palpable mass in the right lower quadrant of the abdomen. A CT scan of the abdomen shows a thickened, obstructing lesion in the cecum. Which of the following is the most likely diagnosis?",
+        "options": {
+            "A": "Appendicitis",
+            "B": "Diverticulitis",
+            "C": "Colon cancer",
+            "D": "Irritable bowel syndrome"
+        },
+        "actual_answer_idx": "C",
+        "predicted_answer_idx": "C",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.1,
+            "B": 0.1,
+            "C": 0.7,
+            "D": 0.1
+        },
+        "pages_found": 5
+    },
+    {
+        "question_id": 99,
+        "original_question": "A 55-year-old woman with a history of hypertension and diabetes mellitus presents to the clinic for a routine check-up. She reports no new symptoms. On examination, her blood pressure is 140/90 mm Hg, pulse is 80/min, and respiratory rate is 16/min. There is no edema, and lung auscultation is clear. A urine dipstick shows 2+ protein and 1+ glucose. Which of the following is the most likely explanation for these findings?",
+        "options": {
+            "A": "Diabetic nephropathy",
+            "B": "Hypertensive nephrosclerosis",
+            "C": "Minimal change disease",
+            "D": "Focal segmental glomerulosclerosis"
+        },
+        "actual_answer_idx": "A",
+        "predicted_answer_idx": "A",
+        "question_category": "CAUSE_MECHANISM",
+        "option_scores": {
+            "A": 0.7,
+            "B": 0.2,
+            "C": 0.05,
+            "D": 0.05
+        },
+        "pages_found": 5
+    }
+]
